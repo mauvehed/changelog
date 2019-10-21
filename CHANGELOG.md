@@ -1,3 +1,8 @@
+# Version 3 (2019-10-21)
+
+## Features
+* Implemented versioning ([9a9982](https://github.com/mauvehed/changelog/commit/9a9982172236c451a1dc8222c145d5ce55dbc951))
+
 # Version 2 (2019-10-21)
 
 ## Features
