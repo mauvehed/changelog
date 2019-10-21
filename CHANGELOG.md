@@ -1,3 +1,11 @@
+# Version 5 (2019-10-21)
+
+## Chores
+* Remove .gitignore ([0479ea](https://github.com/mauvehed/changelog/commit/0479ea6f49fb0832ee2db9ee57938eb93439194d))
+* Remove dummy.txt ([01ffb4](https://github.com/mauvehed/changelog/commit/01ffb4e617e5e33f8207f5415be0b5e58643d8e7))
+* Rename index.js to changelog.js ([bc4f0f](https://github.com/mauvehed/changelog/commit/bc4f0f1530ee50e8fc3b1f92c9923da07b8eb6bf))
+* Remove unknown file ([4d8e4e](https://github.com/mauvehed/changelog/commit/4d8e4e520d2ddaa1d918d9bc3f0dac2a879b9f3d))
+
 # Version 4 (2019-10-21)
 
 ## Features
