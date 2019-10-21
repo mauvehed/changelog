@@ -1,3 +1,8 @@
+# Version 4 (2019-10-21)
+
+## Features
+* Add dummy.txt ([b448a0](https://github.com/mauvehed/changelog/commit/b448a09ab03735e0aa8e77d82f825df835ae3bc2))
+
 # Version 3 (2019-10-21)
 
 ## Features
