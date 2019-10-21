@@ -1,6 +1,7 @@
 # Version 2 (2019-10-21)
 
 ## Features
+* Fix script not printing Chores ([38d256](https://github.com/mauvehed/changelog/commit/38d2561956e6d4bf12b624d5198beeb493bd7981))
 * Added index.js script ([bc8ad4](https://github.com/mauvehed/changelog/commit/bc8ad41934eff93d8d139bb94159cdde839d7faf))
 
 ## Chores
